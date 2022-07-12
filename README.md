@@ -1,6 +1,6 @@
 # loja
  
- um Pequeno site de loja feito em javaScript Puro...
+ uma Pequena loja feito em javaScript Puro...
  
  Video usado para estudo : https://youtu.be/wG65FdU-Yos
  
