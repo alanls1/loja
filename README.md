@@ -1,6 +1,6 @@
 # loja
  
-mini loja em javaScript puro...
+mini loja em javaScript puro..
  
  Video usado para estudo : https://youtu.be/wG65FdU-Yos
  
